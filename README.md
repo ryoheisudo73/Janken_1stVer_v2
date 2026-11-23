@@ -5,7 +5,7 @@
 - 最低限のじゃんけんゲーム実装＋画像
 
 ## ③アプリのデプロイURL
-[https://ryoheisudo73.github.io/Janken_1stVer/]
+[https://ryoheisudo73.github.io/Janken_1stVer_v2/]
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
